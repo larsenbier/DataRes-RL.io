@@ -6,7 +6,7 @@
     * only three inputs: left, right, boost
     * Can use images of game for training, no explicit gamestates needed.
    
-    * [Stanford CS Example] (https://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26588099.pdf)
+    * [Stanford CS Example](https://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26588099.pdf)
     * 
 
 ## Training Ideas:
