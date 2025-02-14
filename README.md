@@ -9,7 +9,7 @@
     * RL [environment](https://gymnasium.farama.org/index.html)
 * Connect4:
     * [environment](https://drive.google.com/drive/folders/16GSzgFau7pEjVV54gfqv04atl7KXIXas?usp=drive_link) (Coded by Larsen)
-    * Larry Checkers Deep Q Learning [example[(https://github.com/leighannelem/checkersRL_math156_24/blob/main/nb.ipynb)
+    * Larry Checkers Deep Q Learning [example](https://github.com/leighannelem/checkersRL_math156_24/blob/main/nb.ipynb)
     * Fully implemented Connect4 deep Q learning [example](https://github.com/neoyung/connect-4/blob/master/connect_X.ipynb)
     * To-Do's:
          * Make training loop for DeepQNet: Henry
