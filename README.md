@@ -10,6 +10,12 @@
 * Connect4:
     * [environment](https://drive.google.com/drive/folders/16GSzgFau7pEjVV54gfqv04atl7KXIXas?usp=drive_link)
     * Fully implemented Connect4 deep Q learning [example](https://github.com/neoyung/connect-4/blob/master/connect_X.ipynb)
+ 
+    * To-Do's:
+         * Make training loop for DeepQNet: Henry
+              * Suggestion: make a function to take a gradient step given a batch of transitions, then use that for the training loop.
+         * Make policy function for selecting an action given the values that the Q function outputs: Larsen
+         * 
 
 ## Training Ideas:
 * [Deep Q Learning](https://huggingface.co/learn/deep-rl-course/en/unit3/deep-q-algorithm) (read [Q-Learning](https://huggingface.co/learn/deep-rl-course/en/unit2/q-learning) first)
